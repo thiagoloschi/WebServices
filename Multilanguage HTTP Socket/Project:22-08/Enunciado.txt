@@ -1,0 +1,1 @@
+Fazer um servidor passar dados para um cliente, sendo servidor em uma liguagem e cliente em outra.
